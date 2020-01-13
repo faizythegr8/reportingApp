@@ -1,0 +1,159 @@
+{
+    "data": {
+        "head": {
+            "id": "9",
+            "company_id": "1",
+            "hoa_id": "3",
+            "ca_id": "8",
+            "code": "010201",
+            "name": "Cash In Bank",
+            "remarks": "-",
+            "is_deleted": "0",
+            "created_by": "5",
+            "updated_by": "0",
+            "stamp": "2015-04-04 00:06:13"
+        },
+        "children": [
+            {
+                "Account_id": "802",
+                "Account_name": "ALX CANADA BANK",
+                "Op_Debit": "0.00",
+                "Op_Credit": "0.00",
+                "Ac_Debit": "71050258.59",
+                "Ac_Credit": "69587027.34",
+                "Balance": "1463231.25",
+                "Ledger_code": "ODAy"
+            },
+            {
+                "Account_id": "12",
+                "Account_name": "BANK AL-FALAH LIMITED",
+                "Op_Debit": "24535.15",
+                "Op_Credit": "0.00",
+                "Ac_Debit": "0.00",
+                "Ac_Credit": "24535.15",
+                "Balance": "0.00",
+                "Ledger_code": "MTI"
+            },
+            {
+                "Account_id": "847",
+                "Account_name": "BANK AL-HABIB LIMITED (CURRENT)",
+                "Op_Debit": "0.00",
+                "Op_Credit": "0.00",
+                "Ac_Debit": "12758278.00",
+                "Ac_Credit": "12679088.60",
+                "Balance": "79189.40",
+                "Ledger_code": "ODQ3"
+            },
+            {
+                "Account_id": "850",
+                "Account_name": "BANK AL-HABIB LIMITED (SAVING)",
+                "Op_Debit": "0.00",
+                "Op_Credit": "0.00",
+                "Ac_Debit": "667277.15",
+                "Ac_Credit": "606531.42",
+                "Balance": "60745.73",
+                "Ledger_code": "ODUw"
+            },
+            {
+                "Account_id": "537",
+                "Account_name": "HBL DAILY PROGRESSIVE",
+                "Op_Debit": "11007529.45",
+                "Op_Credit": "0.00",
+                "Ac_Debit": "200831436.28",
+                "Ac_Credit": "200535542.02",
+                "Balance": "11303423.71",
+                "Ledger_code": "NTM3"
+            },
+            {
+                "Account_id": "10",
+                "Account_name": "HBL LOCK ACCOUNT - FREEDOM",
+                "Op_Debit": "209000.00",
+                "Op_Credit": "0.00",
+                "Ac_Debit": "10722381.45",
+                "Ac_Credit": "10881381.45",
+                "Balance": "50000.00",
+                "Ledger_code": "MTA"
+            },
+            {
+                "Account_id": "5",
+                "Account_name": "MCB BANK LIMITED (BUSINESS) ",
+                "Op_Debit": "111587.20",
+                "Op_Credit": "46740.00",
+                "Ac_Debit": "4557427.00",
+                "Ac_Credit": "4617664.43",
+                "Balance": "4609.77",
+                "Ledger_code": "NQ"
+            },
+            {
+                "Account_id": "4",
+                "Account_name": "MCB BANK LIMITED - (GOLD)",
+                "Op_Debit": "654203.86",
+                "Op_Credit": "0.00",
+                "Ac_Debit": "7921580.95",
+                "Ac_Credit": "6684186.17",
+                "Balance": "1891598.64",
+                "Ledger_code": "NA"
+            },
+            {
+                "Account_id": "544",
+                "Account_name": "MCB HARISH PEROSNAL",
+                "Op_Debit": "0.00",
+                "Op_Credit": "0.00",
+                "Ac_Debit": "0.00",
+                "Ac_Credit": "0.00",
+                "Balance": "0.00",
+                "Ledger_code": "NTQ0"
+            },
+            {
+                "Account_id": "11",
+                "Account_name": "NIB BANK LIMITED",
+                "Op_Debit": "127377.15",
+                "Op_Credit": "0.00",
+                "Ac_Debit": "230632.50",
+                "Ac_Credit": "358009.65",
+                "Balance": "0.00",
+                "Ledger_code": "MTE"
+            },
+            {
+                "Account_id": "8",
+                "Account_name": "SUMMIT BANK CURRENT ",
+                "Op_Debit": "145364.00",
+                "Op_Credit": "0.00",
+                "Ac_Debit": "20554509.35",
+                "Ac_Credit": "20699873.35",
+                "Balance": "0.00",
+                "Ledger_code": "OA"
+            },
+            {
+                "Account_id": "9",
+                "Account_name": "SUMMIT BANK DAILY PRODUCT ACCOUNT",
+                "Op_Debit": "174502.65",
+                "Op_Credit": "0.00",
+                "Ac_Debit": "794059.18",
+                "Ac_Credit": "968561.83",
+                "Balance": "0.00",
+                "Ledger_code": "OQ"
+            },
+            {
+                "Account_id": "836",
+                "Account_name": "UNITED BANK LIMITED (CURRENT)",
+                "Op_Debit": "0.00",
+                "Op_Credit": "0.00",
+                "Ac_Debit": "63356534.20",
+                "Ac_Credit": "63356534.20",
+                "Balance": "0.00",
+                "Ledger_code": "ODM2"
+            },
+            {
+                "Account_id": "841",
+                "Account_name": "UNITED BANK LIMITED (SAVING)",
+                "Op_Debit": "0.00",
+                "Op_Credit": "0.00",
+                "Ac_Debit": "80880389.26",
+                "Ac_Credit": "70665472.38",
+                "Balance": "10214916.88",
+                "Ledger_code": "ODQx"
+            }
+        ]
+    }
+}

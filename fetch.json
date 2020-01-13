@@ -1,0 +1,14 @@
+{
+  "dashboard": [
+    {"id": 10, "title": "Cash In Bank", "balance": "2,564,000"},
+    {"id": 9, "title": "Cash In Hand", "balance": "2,456,000"},
+    {"id": 8, "title": "Account Receivable", "balance": "2,564,000"},
+    {"id": 7, "title": "Expense", "balance": "2,564,000"},
+    {"id": 6, "title": "Revenue", "balance": "2,564,000"},
+    {"id": 5, "title": "Cash In Bank", "balance": "2,564,000"},
+    {"id": 4, "title": "Cash In Hand", "balance": "2,564,000"},
+    {"id": 3, "title": "Account Receivable", "balance": "2,564,000"},
+    {"id": 2, "title": "Expense", "balance": "2,564,000"},
+    {"id": 1, "title": "Revenue", "balance": "2,564,000"}
+  ]
+}

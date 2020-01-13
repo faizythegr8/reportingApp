@@ -1,0 +1,29 @@
+{
+    "data": {
+        "head": {
+            "id": "10",
+            "company_id": "1",
+            "hoa_id": "3",
+            "ca_id": "8",
+            "code": "010202",
+            "name": "Cash In Hand",
+            "remarks": "-",
+            "is_deleted": "0",
+            "created_by": "5",
+            "updated_by": "0",
+            "stamp": "2015-04-04 00:06:41"
+        },
+        "children": [
+            {
+                "Account_id": "13",
+                "Account_name": "PETTY CASH",
+                "Op_Debit": "4949.00",
+                "Op_Credit": "0.00",
+                "Ac_Debit": "2194274.00",
+                "Ac_Credit": "2195812.00",
+                "Balance": "3411.00",
+                "Ledger_code": "MTM"
+            }
+        ]
+    }
+}
